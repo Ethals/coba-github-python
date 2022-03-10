@@ -1,0 +1,1364 @@
+@media (min-width: 0px) and (max-width: 489px) {
+  .mobile-col-md-1 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 8.3333333333%;
+  }
+  .mobile-col-md-2 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 16.6666666667%;
+  }
+  .mobile-col-md-3 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .mobile-col-md-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 33.3333333333%;
+  }
+  .mobile-col-md-5 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 41.6666666667%;
+  }
+  .mobile-col-md-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .mobile-col-md-7 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 58.3333333333%;
+  }
+  .mobile-col-md-8 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 66.6666666667%;
+  }
+  .mobile-col-md-9 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .mobile-col-md-10 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 83.3333333333%;
+  }
+  .mobile-col-md-11 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 91.6666666667%;
+  }
+  .mobile-col-md-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: 100%;
+  }
+}
+
+@media (min-width: 0px) and (max-width: 411px) {
+  /* Header 360px - 411px */
+  .navbar-nav {
+    background: rgba(0, 0, 0, 0.95);
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+
+  .w-50 {
+    width: 40% !important;
+  }
+
+  .justify-content-end {
+    align-content: center;
+    background: none;
+    box-shadow: none;
+  }
+
+  .navbar .nav-item .nav-link {
+    font-size: 0.8rem;
+  }
+
+  .navbar-extra-btn {
+    font-size: 0.6rem;
+    margin-left: -30px;
+  }
+
+  .navbar .navbar-brand {
+    width: 250px;
+  }
+
+  .header-img {
+    width: 0px;
+    height: 0px;
+  }
+
+  .header-text h1 {
+    font-size: 1.6rem;
+    font-weight: 800;
+  }
+
+  /* Profil Kades 360px - 411px */
+
+  .profil-kades {
+    padding: 80px 0 90px 0;
+  }
+
+  .profil-kades-img {
+    width: 250px;
+    height: 100%;
+  }
+
+  .profil-kades-text h1 {
+    font-size: 1.5rem;
+  }
+
+  .profil-kades-text h2 {
+    font-size: 0.9rem;
+  }
+  .profil-kades-text p {
+    font-size: 0.8rem;
+  }
+
+  /* Detail Area & Populasi  360px - 411px */
+
+  .group-detail-area-item .text-item-1 {
+    font-size: 1.4rem;
+  }
+
+  .group-detail-area-item .text-item {
+    font-size: 0.7rem;
+  }
+
+  .group-detail-populasi-item .text-item-1 {
+    font-size: 1.4rem;
+  }
+
+  .group-detail-populasi-item .text-item {
+    font-size: 0.7rem;
+  }
+
+  .item-detail-area .group-detail-area-item {
+    width: 90px;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1.1rem;
+  }
+
+  /* Wisata 360px - 411px */
+
+  .item-wisata {
+    margin: 20px 5%;
+  }
+
+  .item-wisata h3 {
+    font-size: 1rem;
+  }
+
+  .description-wisata {
+    font-size: 0.7rem;
+  }
+
+  /* Install Aplikasi */
+  .pelayanan-aplikasi .ui-aplikasi {
+    width: 30%;
+    margin-left: 110px;
+  }
+
+  .pelayanan-aplikasi .title-pelayanan-aplikasi h1 {
+    font-size: 1.8rem;
+  }
+
+  .pelayanan-aplikasi .content-pelayanan-aplikasi h1,
+  .pelayanan-aplikasi .content-pelayanan-aplikasi ul {
+    font-size: 1rem;
+  }
+
+  /* Footer 360px - 411px */
+
+  .footer-logo {
+    width: 50px;
+    height: 50px;
+  }
+
+  .footer-group {
+    font-size: 10px;
+  }
+
+  .brand-content-footer .brand-footer-description {
+    font-size: 0.8rem;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1rem;
+  }
+
+  /* Berita  */
+  .kabar-desa-title h2 {
+    font-size: 1.9rem;
+    margin-bottom: 0px;
+  }
+  .owl-prev {
+    left: -5px;
+  }
+
+  .owl-next {
+    right: -5px;
+  }
+
+  .item-kabar {
+    width: 230px;
+    height: 392px;
+  }
+
+  .item-kabar h3 {
+    font-size: 1.1rem;
+  }
+
+  .item-kabar .date-kabar {
+    font-size: 0.7rem;
+  }
+
+  .item-kabar .description-kabar {
+    font-size: 0.7rem;
+  }
+
+  .item-kabar .costum-kabar {
+    font-size: 0.8rem;
+  }
+
+  /* Beli  360px - 411px */
+
+  .item-beli {
+    width: 230px;
+    height: 392px;
+  }
+
+  .item-beli .title-beli {
+    font-size: 0.7rem;
+  }
+
+  .item-beli .description-beli {
+    font-size: 0.7rem;
+  }
+
+  .item-kabar .biaya-beli {
+    font-size: 1.5rem;
+  }
+
+  .btn {
+    font-size: 0.6rem;
+  }
+
+  .beli-desa-title h2 {
+    font-size: 1.9rem;
+    margin-bottom: 0px;
+  }
+
+  /* Wisata Desa  */
+
+  .wisata-desa-title h2 {
+    font-size: 1.9rem;
+    margin-bottom: 0px;
+  }
+
+  .item-wisata {
+    width: 130px;
+    height: 222px;
+  }
+
+  .item-wisata h3 {
+    font-size: 0.8rem;
+  }
+
+  .item-wisata .description-wisata {
+    font-size: 0.7rem;
+  }
+
+  /* Install Aplikasi */
+  .pelayanan-aplikasi .ui-aplikasi {
+    width: 30%;
+    margin-left: 110px;
+    display: none;
+  }
+
+  .pelayanan-aplikasi .title-pelayanan-aplikasi h1 {
+    font-size: 1.5rem;
+  }
+
+  .pelayanan-aplikasi .content-pelayanan-aplikasi h1,
+  .pelayanan-aplikasi .content-pelayanan-aplikasi ul {
+    font-size: 0.8rem;
+  }
+
+  .img-applikasi-item img {
+    max-width: 40%;
+  }
+
+  /* Pemerintahan  360px - 411px */
+
+  .header-text .header-title {
+    font-size: 2.8rem;
+  }
+
+  .visi-misi-title h2 {
+    font-size: 2rem;
+  }
+
+  .visi-misi-subtitle h2 {
+    font-size: 1.6rem;
+  }
+
+  .text-visi {
+    font-size: 1rem;
+  }
+
+  .text-misi .item-text-misi li {
+    font-size: 1rem;
+  }
+
+  .struktur-pemerintahan-body h2 {
+    font-size: 2rem;
+  }
+
+  /* Belanja  360px - 411px */
+
+  .item-belanja {
+    width: 150px;
+    height: 255px;
+    margin: 20px 5px;
+  }
+
+  .justify-content-between {
+    justify-content: space-around !important;
+  }
+
+  .item-belanja h3 {
+    font-size: 1rem;
+  }
+
+  .item-belanja .description-belanja {
+    font-size: 0.5rem;
+    padding: 0;
+  }
+
+  .item-belanja .biaya-belanja {
+    font-size: 1rem;
+    padding: 0;
+  }
+
+  /* Footer 360px */
+
+  .footer-desa-mobile {
+    padding: 60px 0 60px 0;
+    background-color: var(--main-color);
+    position: relative;
+    z-index: 1;
+  }
+
+  .resv-desk {
+    display: none;
+  }
+
+  .footer-desa {
+    padding: 0px;
+  }
+
+  .brand-content-footer .footer-sosmed {
+    margin-left: 17%;
+  }
+
+  .footer-logo {
+    width: 80px;
+    height: 80px;
+    margin-right: 2px !important;
+  }
+
+  .brand-content-footer {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .brand-content-footer-atas {
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+
+  .brand-content-footer .brand-footer-name {
+    font-size: 1.2rem;
+  }
+
+  .brand-content-footer .brand-footer-subname {
+    font-size: 0.8rem;
+  }
+
+  .brand-content-footer .footer-sosmed a {
+    width: 43px;
+    height: 43px;
+  }
+
+  .brand-content-footer .footer-sosmed a .fab {
+    font-size: 1.7rem;
+  }
+
+  .brand-content-footer .brand-footer-description {
+    font-size: 0.7rem;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1rem;
+  }
+
+  .footer-group {
+    font-size: 10px;
+  }
+
+  /* News  */
+
+  .news-desa-body {
+    display: none;
+  }
+
+  .item-news {
+    height: auto;
+    width: 460px;
+  }
+
+  .item-news .news-image {
+    height: 100%;
+  }
+
+  .item-news h3 {
+    font-size: 0.8rem;
+  }
+
+  .item-news .date-news {
+    font-size: 0.8rem;
+  }
+
+  .item-news .description-news {
+    font-size: 0.6rem;
+  }
+
+  .item-news .custom-text {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 412px) and (max-width: 489px) {
+  /* Header 412px - 489px */
+  .navbar-nav {
+    background: rgba(0, 0, 0, 0.95);
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+
+  .w-50 {
+    width: 35% !important;
+  }
+
+  .justify-content-end {
+    align-content: center;
+    background: none;
+    box-shadow: none;
+  }
+
+  .navbar .nav-item .nav-link {
+    font-size: 0.8rem;
+  }
+
+  .navbar-extra-btn {
+    font-size: 0.7rem;
+    margin-left: -30px;
+  }
+
+  .navbar .navbar-brand {
+    width: 250px;
+  }
+
+  .header-img {
+    width: 0px;
+    height: 0px;
+  }
+
+  .header-text h1 {
+    font-size: 1.8rem;
+    font-weight: 800;
+  }
+
+  /* Profil Kades 412px - 489px */
+
+  .profil-kades {
+    padding: 80px 0 90px 0;
+  }
+
+  .profil-kades-img {
+    width: 250px;
+    height: 100%;
+  }
+
+  .profil-kades-text h1 {
+    font-size: 1.5rem;
+  }
+
+  .profil-kades-text h2 {
+    font-size: 0.9rem;
+  }
+  .profil-kades-text p {
+    font-size: 0.8rem;
+  }
+
+  /* Detail Area & Populasi  412px - 489px */
+
+  .group-detail-area-item .text-item-1 {
+    font-size: 1.4rem;
+  }
+
+  .group-detail-area-item .text-item {
+    font-size: 0.7rem;
+  }
+
+  .group-detail-populasi-item .text-item-1 {
+    font-size: 1.4rem;
+  }
+
+  .group-detail-populasi-item .text-item {
+    font-size: 0.7rem;
+  }
+
+  .item-detail-area .group-detail-area-item {
+    width: 90px;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1.1rem;
+  }
+
+  /* Wisata 412px - 489px */
+
+  .item-wisata {
+    margin: 20px 5%;
+  }
+
+  .item-wisata h3 {
+    font-size: 1.2rem;
+  }
+
+  .item-wisata {
+    margin: 20px 5%;
+  }
+
+  .item-wisata h3 {
+    font-size: 1.2rem;
+  }
+
+  /* Berita  */
+
+  .kabar-desa-title h2 {
+    font-size: 1.9rem;
+    margin-bottom: 0px;
+  }
+
+  .owl-prev {
+    left: -5px;
+  }
+
+  .owl-next {
+    right: -5px;
+  }
+
+  .beli-desa-title h2 {
+    font-size: 1.9rem;
+    margin-bottom: 0px;
+  }
+
+  .item-kabar {
+    width: 230px;
+    height: 392px;
+  }
+
+  .item-kabar h3 {
+    font-size: 1.1rem;
+  }
+
+  .item-kabar .date-kabar {
+    font-size: 0.7rem;
+  }
+
+  .item-kabar .description-kabar {
+    font-size: 0.7rem;
+  }
+
+  .item-kabar .costum-kabar {
+    font-size: 0.8rem;
+  }
+
+  /* Beli  412px - 489px */
+
+  .item-beli {
+    width: 230px;
+    height: 392px;
+  }
+
+  .item-beli .title-beli {
+    font-size: 0.7rem;
+  }
+
+  .item-beli .description-beli {
+    font-size: 0.7rem;
+  }
+
+  .item-kabar .biaya-beli {
+    font-size: 1.5rem;
+  }
+
+  .btn {
+    font-size: 0.6rem;
+  }
+
+  .beli-desa-title h2 {
+    font-size: 1.9rem;
+    margin-bottom: 0px;
+  }
+
+  /* Wisata Desa  */
+
+  .wisata-desa-title h2 {
+    font-size: 1.9rem;
+    margin-bottom: 0px;
+  }
+
+  /* Install Aplikasi */
+  .pelayanan-aplikasi .ui-aplikasi {
+    width: 30%;
+    margin-left: 120px;
+    display: none;
+  }
+
+  .pelayanan-aplikasi .title-pelayanan-aplikasi h1 {
+    font-size: 1.5rem;
+  }
+
+  .pelayanan-aplikasi .content-pelayanan-aplikasi h1,
+  .pelayanan-aplikasi .content-pelayanan-aplikasi ul {
+    font-size: 0.8rem;
+  }
+
+  .img-applikasi-item img {
+    max-width: 40%;
+  }
+
+  /* Pemerintahan  412px - 489px */
+
+  .header-text .header-title {
+    font-size: 2.8rem;
+  }
+
+  .visi-misi-title h2 {
+    font-size: 2.1rem;
+  }
+
+  .visi-misi-subtitle h2 {
+    font-size: 1.6rem;
+  }
+
+  .text-visi {
+    font-size: 1rem;
+  }
+
+  .text-misi .item-text-misi li {
+    font-size: 1rem;
+  }
+
+  .struktur-pemerintahan-body h2 {
+    font-size: 2.1rem;
+  }
+
+  /* Belanja  412px - 489px */
+
+  .item-belanja {
+    width: 180px;
+    height: 307px;
+    margin: 20px 5px;
+  }
+
+  .item-belanja h3 {
+    font-size: 1rem;
+  }
+
+  .item-belanja .description-belanja {
+    font-size: 0.5rem;
+  }
+
+  .item-belanja .biaya-belanja {
+    font-size: 1.1rem;
+    padding: 0px 10px 5px 10px;
+  }
+
+  /* Footer 412px - 489px */
+
+  .footer-desa-mobile {
+    padding: 60px 0 60px 0;
+    background-color: var(--main-color);
+    position: relative;
+    z-index: 1;
+  }
+
+  .resv-desk {
+    display: none;
+  }
+
+  .footer-desa {
+    padding: 0px;
+  }
+
+  .brand-content-footer .footer-sosmed {
+    margin-left: 17%;
+  }
+  .brand-content-footer {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .brand-content-footer-atas {
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+
+  .footer-logo {
+    width: 80px;
+    height: 80px;
+    margin-right: 3px !important;
+  }
+
+  .brand-content-footer .brand-footer-name {
+    font-size: 1.2rem;
+  }
+
+  .brand-content-footer .brand-footer-subname {
+    font-size: 0.8rem;
+  }
+
+  .brand-content-footer .footer-sosmed a {
+    width: 50px;
+    height: 50px;
+  }
+
+  .brand-content-footer .brand-footer-description {
+    font-size: 0.7rem;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1rem;
+  }
+
+  .footer-group {
+    font-size: 10px;
+  }
+
+  /* News  */
+
+  .news-desa-body {
+    display: none;
+  }
+
+  .item-news {
+    height: auto;
+    width: 460px;
+  }
+
+  .item-news .news-image {
+    height: 100%;
+  }
+
+  .item-news h3 {
+    font-size: 0.8rem;
+  }
+
+  .item-news .date-news {
+    font-size: 0.8rem;
+  }
+
+  .item-news .description-news {
+    font-size: 0.6rem;
+  }
+
+  .item-news .custom-text {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 490px) and (max-width: 575px) {
+  /* Header  490px - 575px*/
+  .navbar-nav {
+    background: rgba(0, 0, 0, 0.95);
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+
+  .w-50 {
+    width: 30% !important;
+  }
+
+  .justify-content-end {
+    align-content: center;
+    background: none;
+    box-shadow: none;
+  }
+
+  .navbar .nav-item .nav-link {
+    font-size: 0.9rem;
+  }
+
+  .navbar-extra-btn {
+    font-size: 0.8rem;
+    margin-left: -30px;
+  }
+
+  .header-text h1 {
+    font-size: 2.1rem;
+    font-weight: 800;
+  }
+
+  .header-img {
+    width: 0px;
+    height: 0px;
+  }
+
+  /* Profil Kades 490px - 575px */
+
+  .profil-kades {
+    padding: 80px 0 90px 0;
+  }
+
+  .profil-kades-img {
+    width: 350px;
+    height: 100%;
+  }
+
+  /* Detail Area & Populasi 490px - 575px  */
+
+  .group-detail-area-item .text-item-1 {
+    font-size: 1.5rem;
+  }
+
+  .group-detail-area-item .text-item {
+    font-size: 0.8rem;
+  }
+
+  .group-detail-populasi-item .text-item-1 {
+    font-size: 1.5rem;
+  }
+
+  .group-detail-populasi-item .text-item {
+    font-size: 0.8rem;
+  }
+
+  .item-detail-area .group-detail-area-item {
+    width: 140px;
+  }
+
+  /* Wisata 490px - 575px  */
+
+  .item-wisata {
+    margin: 20px 5%;
+  }
+
+  .item-wisata h3 {
+    font-size: 1.2rem;
+  }
+
+  /* Install Aplikasi */
+  .pelayanan-aplikasi .ui-aplikasi {
+    width: 40%;
+    margin-left: 130px;
+  }
+
+  .pelayanan-aplikasi .title-pelayanan-aplikasi h1 {
+    font-size: 2rem;
+  }
+
+  .pelayanan-aplikasi .content-pelayanan-aplikasi h1,
+  .pelayanan-aplikasi .content-pelayanan-aplikasi ul {
+    font-size: 1.1rem;
+  }
+
+  /* Berita  */
+
+  .owl-prev {
+    left: -5px;
+  }
+
+  .owl-next {
+    right: -5px;
+  }
+
+  /* Pemerintah 490px - 575px  */
+
+  .visi-misi-title h2 {
+    font-size: 2.3rem;
+  }
+
+  .visi-misi-subtitle h2 {
+    font-size: 1.8rem;
+  }
+
+  .text-visi {
+    font-size: 1.2rem;
+  }
+
+  .text-misi .item-text-misi li {
+    font-size: 1.2rem;
+  }
+
+  .struktur-pemerintahan-body h2 {
+    font-size: 2.3rem;
+  }
+
+  /* Belanja  490px - 575px */
+
+  .item-belanja {
+    width: 210px;
+    height: 358px;
+    margin: 20px 10px;
+  }
+
+  .item-belanja h3 {
+    font-size: 1.2rem;
+  }
+
+  .item-belanja .description-belanja {
+    font-size: 0.7rem;
+  }
+
+  .item-belanja .biaya-belanja {
+    font-size: 1.3rem;
+  }
+
+  .item-news h3 {
+    font-size: 1.2rem;
+  }
+
+  .item-news .description-news {
+    font-size: 0.7rem;
+  }
+
+  .item-news {
+    width: 210px;
+    height: 408px;
+    margin: 20px 10px;
+  }
+
+  /* Footer 490px - 575px */
+
+  .resv-mobile {
+    display: none;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1.1rem;
+  }
+
+  .footer-logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 5px !important;
+  }
+  .brand-content-footer .brand-footer-description {
+    font-size: 0.8rem;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1rem;
+  }
+
+  .footer-group {
+    font-size: 12px;
+  }
+
+  /* News  */
+
+  .news-desa-body-mobile {
+    display: none;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  /* Header 576px - 767px */
+  .navbar-nav {
+    background: rgba(0, 0, 0, 0.95);
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+
+  .w-50 {
+    width: 30% !important;
+  }
+
+  .justify-content-end {
+    align-content: center;
+    background: none;
+    box-shadow: none;
+  }
+
+  .navbar .nav-item .nav-link {
+    font-size: 0.9rem;
+  }
+
+  .navbar-extra-btn {
+    font-size: 0.8rem;
+    margin-left: -30px;
+  }
+
+  .header-text h1 {
+    font-size: 2.3rem;
+    font-weight: 800;
+  }
+
+  .header-img {
+    width: 0px;
+    height: 0px;
+  }
+
+  .btn {
+    font-size: 0.8rem;
+  }
+
+  /* Profil Kades 576px - 767px */
+
+  .profil-kades {
+    padding: 80px 0 90px 0;
+  }
+
+  .profil-kades-img {
+    width: 350px;
+    height: 100%;
+  }
+
+  /* Detail Area & Populasi 576px - 767px  */
+
+  .group-detail-area-item .text-item-1 {
+    font-size: 1.5rem;
+  }
+
+  .group-detail-area-item .text-item {
+    font-size: 0.8rem;
+  }
+
+  .group-detail-populasi-item .text-item-1 {
+    font-size: 1.5rem;
+  }
+
+  .group-detail-populasi-item .text-item {
+    font-size: 0.8rem;
+  }
+
+  .item-detail-area .group-detail-area-item {
+    width: 140px;
+  }
+
+  /* Wisata 576px - 767px  */
+
+  .item-wisata {
+    margin: 20px 5%;
+  }
+
+  .item-wisata h3 {
+    font-size: 1.2rem;
+  }
+
+  /* Install Aplikasi */
+  .pelayanan-aplikasi .ui-aplikasi {
+    width: 50%;
+    margin-left: 150px;
+  }
+
+  /* Pemerintah 576px - 767px  */
+
+  .visi-misi-title h2 {
+    font-size: 2.3rem;
+  }
+
+  .visi-misi-subtitle h2 {
+    font-size: 1.8rem;
+  }
+
+  .text-visi {
+    font-size: 1.2rem;
+  }
+
+  .text-misi .item-text-misi li {
+    font-size: 1.2rem;
+  }
+
+  .struktur-pemerintahan-body h2 {
+    font-size: 2.3rem;
+  }
+
+  /* Belanja 576px - 767px  */
+
+  .item-belanja {
+    width: 230px;
+    height: 392px;
+    margin: 20px 10px;
+  }
+
+  .item-belanja h3 {
+    font-size: 1.2rem;
+  }
+
+  .item-belanja .description-belanja {
+    font-size: 0.7rem;
+  }
+
+  .item-belanja .biaya-belanja {
+    font-size: 1.5rem;
+  }
+
+  .item-news h3 {
+    font-size: 1.2rem;
+  }
+
+  .item-news .description-news {
+    font-size: 0.7rem;
+  }
+
+  .item-news {
+    width: 230px;
+    height: 412px;
+    margin: 20px 10px;
+  }
+
+  /* Footer 576px - 767px */
+
+  .resv-mobile {
+    display: none;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1.1rem;
+  }
+
+  .footer-logo {
+    width: 50px;
+    height: 50px;
+  }
+  .brand-content-footer .brand-footer-description {
+    font-size: 0.8rem;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1rem;
+  }
+
+  .footer-group {
+    font-size: 12px;
+  }
+
+  /* News  */
+
+  .news-desa-body-mobile {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Header 768px - 991px */
+  .navbar-nav {
+    background: rgba(0, 0, 0, 0.95);
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+  }
+
+  .w-50 {
+    width: 30% !important;
+  }
+
+  .justify-content-end {
+    align-content: center;
+    background: none;
+    box-shadow: none;
+  }
+
+  .navbar .nav-item .nav-link {
+    font-size: 0.9rem;
+  }
+
+  .navbar-extra-btn {
+    font-size: 0.9rem;
+    margin-left: -30px;
+  }
+
+  .header-text h1 {
+    font-size: 1.9rem;
+    font-weight: 800;
+  }
+
+  .header-img {
+    width: 400px;
+    height: 100%;
+  }
+
+  /* Profil Kades 768px - 991px*/
+
+  .profil-kades-img {
+    width: 400px;
+    height: 100%;
+  }
+
+  /* Detail Area & Populasi 768px - 991px */
+
+  .group-detail-area-item .text-item-1 {
+    font-size: 1.5rem;
+  }
+
+  .group-detail-area-item .text-item {
+    font-size: 0.8rem;
+  }
+
+  .group-detail-populasi-item .text-item-1 {
+    font-size: 1.5rem;
+  }
+
+  .group-detail-populasi-item .text-item {
+    font-size: 0.8rem;
+  }
+
+  .pelayanan-aplikasi .title-pelayanan-aplikasi h1 {
+    font-size: 1.8rem;
+  }
+
+  .pelayanan-aplikasi .ui-aplikasi {
+    margin-left: 20%;
+  }
+
+  /* Footer 768px - 991px */
+
+  .resv-mobile {
+    display: none;
+  }
+
+  .footer-logo {
+    width: 55px;
+    height: 55px;
+    margin-right: 5px !important;
+    margin-top: 15px;
+  }
+
+  .brand-content-footer {
+    padding: 9px;
+  }
+
+  .brand-content-footer .brand-footer-name {
+    font-size: 1.1rem;
+  }
+
+  .brand-content-footer .brand-footer-subname {
+    font-size: 0.9rem;
+  }
+
+  .brand-content-footer .brand-footer-description {
+    font-size: 0.8rem;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1.3rem;
+  }
+
+  /* News  */
+
+  .news-desa-body-mobile {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* Header 992px - 1199px */
+  .navbar .nav-item {
+    margin-left: 15px;
+  }
+
+  .header-img {
+    width: 400px;
+    height: 100%;
+  }
+
+  .header-text h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+  }
+
+  .pelayanan-aplikasi .title-pelayanan-aplikasi h1 {
+    font-size: 2.4rem;
+  }
+
+  /* Belanja 992px - 1199px   */
+  .item-belanja {
+    margin: 20px 20px;
+  }
+
+  /* Footer 992px - 1199px  */
+
+  .resv-mobile {
+    display: none;
+  }
+
+  .footer-logo {
+    width: 70px;
+    height: 70px;
+  }
+
+  .brand-content-footer .brand-footer-name {
+    font-size: 1.1rem;
+  }
+
+  .brand-content-footer .brand-footer-subname {
+    font-size: 0.9rem;
+  }
+
+  .brand-content-footer .brand-footer-description {
+    font-size: 0.8rem;
+  }
+
+  .brand-content-footer .brand-footer-title {
+    font-size: 1.3rem;
+  }
+
+  /* Berita  992px - 1199px  */
+
+  .item-news {
+    margin: 20px 20px;
+  }
+
+  /* News  */
+
+  .news-desa-body-mobile {
+    display: none;
+  }
+}
+
+@media (min-width: 1200px) {
+  .news-desa-body-mobile {
+    display: none;
+  }
+  .resv-mobile {
+    display: none;
+  }
+}

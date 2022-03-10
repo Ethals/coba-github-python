@@ -1,0 +1,53 @@
+.scroll-sidebar {
+  overflow-y: auto;
+  overflow-x: hidden;
+  min-height: 100%;
+}
+
+.sidebar-item .sidebar-link .fa-angle-right {
+  right: 0px;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+.sidebar-item .sidebar-link .rotate {
+  transform: rotate(90deg);
+}
+
+.sidebar-nav li .nav-treeview span {
+  word-wrap: break-word;
+  padding-left: 1.5rem;
+}
+
+.hide-menu .fa-angle-right {
+  position: absolute;
+  right: 0;
+  margin-right: 5px;
+}
+
+.navbar-nav .profile-pic img {
+  margin-left: 5px;
+  border: 2px solid rgb(196, 211, 241);
+  background-color: #ffffff;
+  padding: 2px;
+}
+
+.navbar-title {
+  line-height: 1;
+  text-align: center;
+  margin: 8px auto;
+}
+
+.navbar-title .title {
+  font-weight: 800;
+  font-size: 1.1rem;
+}
+
+.navbar-title .subtitle {
+  font-size: 0.8rem;
+  line-height: 0;
+}
+
+.navbar-header .navbar-brand .navbar-title {
+  color: #54667a;
+  font-weight: 700;
+}
